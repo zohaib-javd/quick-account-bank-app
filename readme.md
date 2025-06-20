@@ -95,7 +95,7 @@ streamlit run bank_app.py
 ## 📲 Connect with me:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/zohaib-javd)  
-📧 Email: zohaibjaved@gmail.com  
+📧 zohaibjaved@gmail.com  
 ❎ [X (Twitter)](https://x.com/zohaibjaved)
 
 ---
