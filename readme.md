@@ -15,8 +15,8 @@ All while demonstrating core **Object-Oriented Programming (OOP)** principles in
 
 ## 🚀 Live Demo
 
-🌐 **Live App**: _[Add your Streamlit Cloud or deployment link here]_  
-📸 **Screenshots** (add images in `screenshots/` folder):
+🌐 **Live App**: _[(https://zohaib-javd-quick-account-bank-app-bank-app-hf5ipm.streamlit.app/)]_  
+📸 **Screenshots** 
 - ![Home Screen](image/home.png)
 - ![Withdraw Money](image/withdraw.png)
 - ![Update Info](image/update_info.png)
@@ -75,7 +75,7 @@ Future version will split users (Admin, Customer) via inheritance.
 📦 zeejay-bank
 ┣ 📜 bank_app.py        → Streamlit App
 ┣ 📜 data.json           → JSON-based database
-┣ 📁 screenshots/        → Add images here for README
+┣ 📁 image/        
 ┗ 📜 README.md
 ```
 
