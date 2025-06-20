@@ -17,9 +17,9 @@ All while demonstrating core **Object-Oriented Programming (OOP)** principles in
 
 🌐 **Live App**: _[Add your Streamlit Cloud or deployment link here]_  
 📸 **Screenshots** (add images in `screenshots/` folder):
-- ![Home Screen](screenshots/home.png)
-- ![Withdraw Money](screenshots/withdraw.png)
-- ![Update Info](screenshots/update_info.png)
+- ![Home Screen](image/home.png)
+- ![Withdraw Money](image/withdraw.png)
+- ![Update Info](image/update_info.png)
 
 ---
 
